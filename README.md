@@ -13,3 +13,10 @@ scripts/sequence_align.py
 	Aligns to sequences using the Wagner-Fisher algorithm. 
 	Returns two lists of the aligned sequences (algnA, algnB) 
 	and the minimum edit distance (Distance).
+
+scripts/converter.py
+
+	strtopho(???,???)
+	===============
+
+	ipatostr(???,???) 
