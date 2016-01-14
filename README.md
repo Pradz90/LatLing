@@ -10,4 +10,6 @@ scripts/sequence_align.py
 
 	align(seqA,seqB)
 	================
-	Aligns to sequences using the Wagner-Fisher algorithm. Returns two lists of the aligned sequences (algnA, algnB) and the minimum edit distance (Distance).
+	Aligns to sequences using the Wagner-Fisher algorithm. 
+	Returns two lists of the aligned sequences (algnA, algnB) 
+	and the minimum edit distance (Distance).
