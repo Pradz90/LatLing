@@ -1,0 +1,2 @@
+1	English	house	haus
+2	German	haus	haus
