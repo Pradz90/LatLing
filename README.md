@@ -14,6 +14,12 @@ scripts/sequence_align.py
 	Returns two lists of the aligned sequences (algnA, algnB) 
 	and the minimum edit distance (Distance). The algorithm works for both strings and lists.
 
+scripts/open_textfile.py
+
+	???(???.txt)
+	================
+	Converts a text document (a table with 4 cloumns separated by \t) into a list with two levels.
+
 scripts/converter.py
 
 	strtopho(???,???)
