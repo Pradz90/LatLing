@@ -98,10 +98,10 @@ def align(seqA, seqB):
 
    return algnA, algnB, Distance
 
-# def main():
+#def main():
 #    align("wort","words")
 
-# if __name__ == "__main__":
+#if __name__ == "__main__":
 #    main()
 
 
