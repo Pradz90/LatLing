@@ -1,0 +1,6 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=1;
+TAXABELS
+;
