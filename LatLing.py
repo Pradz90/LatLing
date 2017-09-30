@@ -9,3 +9,5 @@ print("LatLing is optimised for Python 3.6")
 print("Loading scripts:")
 from Scripts.sequence_align import *
 print("'Sequence Align' loaded.")
+from Scripts.converter import *
+print ("'Converter' loaded.")

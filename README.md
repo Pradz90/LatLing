@@ -21,8 +21,8 @@ scripts/open_textfile.py
 	Converts a text document (a table with 4 cloumns separated by \t) into a list with two levels.
 
 scripts/converter.py
-
-	strtopho(???,???)
-	===============
+	strtopho(string,conversion_rules)
+	=================
+	Converts a string to a phonetical codes (e.g. Kölner Phonetik) according to the implemented rules in file "Data/conversion_rules.txt". Returns the phonetical codes as well as a save string of the original input. Allows the implementation of differen conversion_rules as optional input.
 
 	ipatostr(???,???) 
