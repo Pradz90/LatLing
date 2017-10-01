@@ -1,3 +1,8 @@
-Italian>kaza
-French>mɛzɔ
-Spanish>kasa
+Vulgarlatin>k a s a
+Italian>k a z a
+French>ʃ e
+Spanish>k a s a
+Portuguese>k a z ɘ
+Latin>k a s a
+Venetian>k a z a
+Galician>k a s a
