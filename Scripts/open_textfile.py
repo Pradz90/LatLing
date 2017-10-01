@@ -1,5 +1,4 @@
-source = open("Data/source.txt")
+source = open("Data/source.txt", "r")
 for line in source:
-    str = line.rstrip()
-    print(str)
+    testsource = line.rstrip()
 source.close()
