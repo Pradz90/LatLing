@@ -1,6 +1,15 @@
 from Scripts.converter import *
 from Scripts.sequence_align import *
 
+def removeduplicates(eingabe):
+	output = []
+	seen = set()
+	for item in eingabe:
+		if item not in seen:
+			output.append(item)
+			seen.add(item)
+	return output
+
 def changefunction(eingabe):
     potenz = 8
     ausgabe = (1-(1/(eingabe+1)))**potenz

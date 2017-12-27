@@ -1,4 +1,7 @@
-instr = open("Data/conversion_rules.txt")
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+instr = open("Data/conversion_rules.txt","r", 1, "utf_8")
 print("\t...loading conversion rules...")
 rules = {}
 for line in instr:
