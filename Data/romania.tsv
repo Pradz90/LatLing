@@ -1,0 +1,278 @@
+ID	DOCULECT	CONCEPT	CONCEPTICON_ID	ALIGNMENT	COGID
+1	Piedmontese	I	1	m i	3
+2	Piedmontese	YOU_S	2	t i	0
+3	Piedmontese	HE	3	ʧ ɘ ı	0
+4	Piedmontese	WE	4	n u j	0
+5	Piedmontese	YOU_P	5	l u r	0
+6	Piedmontese	ALL	6	t y t	0
+7	Piedmontese	MANY	7	t a ŋ t	0
+8	Piedmontese	SOME	8	ʧ e r t i d y n	0
+9	Piedmontese	SOME	8	k w a i k	1
+10	Piedmontese	EAR	9	u r i j a	0
+11	Piedmontese	EYE	10	ø ʧ	0
+12	Piedmontese	NOSE	11	n a s	0
+13	Piedmontese	BEAUTIFUL	12	b e l	0
+14	Piedmontese	SMELL	13	s ɛ ŋ t i	0
+15	Piedmontese	FEAR	14	t ɘ m m e	0
+16	Piedmontese	SLEEP	15	d y r m i	0
+17	Piedmontese	RIVER	16	f j y m	0
+18	Piedmontese	CLOUD	17	n i v u l a	0
+19	Piedmontese	ICE	18	ʣ a s a	0
+20	Piedmontese	COLD	19	f r ɛ j d	0
+21	Piedmontese	GOOD	20	b u ŋ	0
+22	Piedmontese	BAD	21	m a l	0
+23	Piedmontese	BECAUSE	22	p ɘ r k ɛ	0
+24	Piedmontese	SAY	23	d i	0
+25	Piedmontese	LIVE	24	v i v e	0
+26	Piedmontese	FISCH	25	p e s	0
+27	Piedmontese	MOTHER	26	m a m a ŋ	0
+28	Spanish	I	1	ɟ o	1
+29	Spanish	YOU_S	2	t u	0
+30	Spanish	HE	3	e l	0
+31	Spanish	WE	4	n o s o t r o s	1
+32	Spanish	YOU_P	5	b o s o t r o s	1
+33	Spanish	ALL	6	t o ð o	0
+34	Spanish	MANY	7	m u ʧ o	1
+35	Spanish	SOME	8	a l ɣ u n o	2
+36	Spanish	EAR	9	o ɾ e x a	0
+37	Spanish	EYE	10	o x o	0
+38	Spanish	NOSE	11	n a ɾ i θ	0
+39	Spanish	BEAUTIFUL	12	b o n i t o	1
+149	Spanish	BEAUTIFUL	12	e r m o s o	3
+40	Spanish	SMELL	13	s e n t i ɾ	0
+41	Spanish	FEAR	14	t e m e r	0
+42	Spanish	SLEEP	15	d o ɾ m i ɾ	0
+43	Spanish	RIVER	16	r r i o	1
+44	Spanish	CLOUD	17	n u β e	0
+45	Spanish	ICE	18	ɟ e l o	1
+46	Spanish	COLD	19	f ɾ i o	0
+47	Spanish	GOOD	20	b w e n o	0
+48	Spanish	BAD	21	m a l o	1
+49	Spanish	BECAUSE	22	p o ɾ k e	0
+50	Spanish	SAY	23	d e θ i ɾ	0
+51	Spanish	LIVE	24	b i β i ɾ	0
+52	Spanish	FISH	25	p e θ	0
+53	Spanish	MOTHER	26	m a m a	0
+54	French	I	1	ʒ ɘ	1
+79	French	I	1	m w a	0
+55	French	YOU_S	2	t y	0
+56	French	HE	3	i l	0
+57	French	WE	4	n u	0
+58	French	YOU_P	5	v u	2
+59	French	ALL	6	t u	0
+60	French	MANY	7	b o k u	2
+61	French	SOME	8	k e l k	1
+62	French	EAR	9	ɔ ʀ ɛ j	0
+63	French	EYE	10	œ j	0
+64	French	NOSE	11	n e	0
+65	French	BEAUTIFUL	12	b o	0
+66	French	SMELL	13	s ɑ̃ t i ʀ	0
+67	French	FEAR	14	k ʀ ɛ̃ d ʀ	1
+68	French	SLEEP	15	d o ʀ m i ʀ	0
+69	French	RIVER	16	f l œ v	0
+70	French	CLOUD	17	n y a ʒ	0
+71	French	ICE	18	g l a s	0
+72	French	COLD	19	f ʀ w ɑ	0
+73	French	GOOD	20	b j ɛ̃	0
+74	French	BAD	21	m a l	0
+75	French	BECAUSE	22	p a ʀ s k ɘ	0
+76	French	SAY	23	d i ʀ	0
+77	French	LIVE	24	v i v ʀ	0
+78	French	FISH	25	p w a s ɔ̃	1
+80	French	MOTHER	26	m ɑ m ɑ̃		0
+81	Portuguese	I	1	e w	0
+82	Portuguese	YOU_S	2	t u	0
+83	Portuguese	HE	3	e l ɘ	0
+84	Portuguese	WE	4	n ɔ ʃ	0
+85	Portuguese	YOU_P	5	v ɔ ʃ	0
+86	Portuguese	ALL	6	t o d u	0
+87	Portuguese	MANY	7	m ũ ĩ t u	1
+88	Portuguese	SOME	8	a l g ũ ʃ	2
+89	Portuguese	EAR	9	ɔ ɾ ɐ ʎ ɐ	0
+90	Portuguese	EYE	10	o ʎ u	0
+91	Portuguese	NOSE	11	n ɐ ɾ i ʃ	0
+92	Portuguese	BEAUTIFUL	12	b ɛ l u	0
+93	Portuguese	BEAUTIFUL	12	b u n i t u	1
+94	Portuguese	SMELL	13	s ẽ t i ɾ	0
+95	Portuguese	FEAR	14	t ɘ m e ɾ	0
+96	Portuguese	SLEEP	15	d u ɾ m i ɾ	0
+97	Portuguese	RIVER	16	ʀ i w	1
+98	Portuguese	CLOUD	17	n u v ɐ̃ j̃	0
+99	Portuguese	ICE	18	ʒ e l u	0
+100	Portuguese	COLD	19	f ɾ i w	0
+101	Portuguese	GOOD	20	b õ	0
+102	Portuguese	BAD	21	m a l	0
+103	Portuguese	BECAUSE	22	p u ɾ k ɘ	0
+104	Portuguese	SAY	23	d i z e ɾ	0
+105	Portuguese	LIVE	24	v i v e ɾ	0
+106	Portuguese	FISH	25	p ɐ j ʃ ɘ	0
+107	Portuguese	MOTHER	26	m ɐ m ɐ̃	0
+108	Romanian	I	1	e u	0
+109	Romanian	YOU_S	2	t u	0
+110	Romanian	HE	3	j e l	0
+111	Romanian	WE	4	n o j	0
+112	Romanian	YOU_P	5	v o j	0
+113	Romanian	ALL	6	t o t	0
+114	Romanian	MANY	7	m u l ʦ ɨ	1
+115	Romanian	SOME	8	a k u m	2
+116	Romanian	EAR	9	u r e k h e	0
+117	Romanian	EYE	10	o k h i	0
+118	Romanian	NOSE	11	n a s	0
+119	Romanian	BEAUTIFUL	12	f o̯ a r t e	2
+120	Romanian	SMELL	13	m i r o s i	1
+121	Romanian	FEAR	14	t e a m ə	0
+122	Romanian	SLEEP	15	a d o r m i	0
+123	Romanian	RIVER	16	r ɨ u	1
+124	Romanian	RIVER	16	f l u v i u	2
+125	Romanian	CLOUD	17	n o r	0
+126	Romanian	ICE	18	g h j a ʦ ə	0
+127	Romanian	COLD	19	f r i g	0
+128	Romanian	GOOD	20	b u n	0
+129	Romanian	BAD	21	r ə u	1
+130	Romanian	BECAUSE	22	p e n t r u k ə	0
+131	Romanian	SAY	23	a s p u n e	1
+132	Romanian	LIVE	24	a l o k u i	1
+133	Romanian	FISH	25	p e ʃ t e	0
+134	Romanian	MOTHER	26	m a m ə	0
+135	Logudurese	I	1	e o	0
+136	Logudurese	YOU_S	2	t u e	0
+137	Logudurese	HE	3	i l l e	0
+138	Logudurese	WE	4	n o i s	0
+139	Logudurese	YOU_P	5	b o i s	0
+140	Logudurese	ALL	6	t o t t u	0
+141	Logudurese	MANY	7	t a n t u	0
+142	Logudurese	SOME	8	a l g u n u	2
+143	Logudurese	SOME	8	k a l k i	1
+144	Logudurese	EAR	9	a u r i k a	0
+145	Logudurese	EYE	10	ɔ j u	0
+146	Logudurese	NOSE	11	n a s u	0
+147	Logudurese	BEAUTIFUL	12	b ɛ l l o	0
+148	Logudurese	BEAUTIFUL	12	e r m o z u	3
+150	Logudurese	SMELL	13	s e r i a r e	2
+151	Logudurese	FEAR	14	t i m i r e	0
+152	Logudurese	SLEEP	15	d r o m m i r e	0
+153	Logudurese	RIVER	16	f l u m e n e	0
+154	Logudurese	CLOUD	17	n u i l u	0
+155	Logudurese	ICE	18	g j a ʣ u	0
+156	Logudurese	COLD	19	f r i t t u	0
+157	Logudurese	GOOD	20	b o n u	0
+158	Logudurese	BAD	21	m a l e	0
+159	Logudurese	BECAUSE	22	p r ɔ j t e	0
+160	Logudurese	SAY	23	n a r r e r e	2
+161	Logudurese	LIVE	24	b i v e r e	0
+162	Logudurese	LIVE	24	k a m p a r e	2
+163	Logudurese	FISH	25	p i s k e	0
+164	Logudurese	MOTHER	26	m a m a	0
+165	Italian	I	1	i o	0
+166	Italian	YOU_S	2	t u	0
+167	Italian	HE	3	l u i	1
+168	Italian	WE	4	n o i	0
+169	Italian	YOU_P	5	v o i	0
+170	Italian	ALL	6	t u t t o	0
+171	Italian	MANY	7	t a n t o	0
+172	Italian	SOME	8	a l k u n i	2
+173	Italian	SOME	8	k w a l k e	1
+174	Italian	EAR	9	o r e k k j o	0
+175	Italian	EYE	10	ɔ k k j o	0
+176	Italian	NOSE	11	n a s o	0
+177	Italian	BEAUTIFUL	12	b ɛ l l o	0
+178	Italian	SMELL	13	s e n t i r e	0
+179	Italian	FEAR	14	t e m e r e	0
+180	Italian	SLEEP	15	d o r m i r e	0
+181	Italian	RIVER	16	f j u m e	0
+182	Italian	CLOUD	17	n u v o l a	0
+183	Italian	ICE	18	g j a t ʧ o	0
+184	Italian	COLD	19	f r e d d o	0
+185	Italian	GOOD	20	b w ɔ  n o	0
+186	Italian	BAD	21	m a l e	0
+187	Italian	BECAUSE	22	p e r k e	0
+188	Italian	SAY	23	d i r e	0
+189	Italian	LIVE	24	v i v e r e	0
+190	Italian	FISH	25	p e ʃ ʃ e	0
+191	Italian	MOTHER	26	m a m m a	0
+192	Latin	I	1	ɛ g ɔ	0
+193	Latin	YOU_S	2	t ʊ	0
+194	Latin	HE	3	ı s	0
+195	Latin	WE	4	n ɔ s	0
+196	Latin	YOU_P	5	w ɔ s	0
+197	Latin	ALL	6	ɔ m n e s	1
+198	Latin	ALL	6	k u n k t ı	0
+199	Latin	MANY	7	t a n t ʊ s	0
+200	Latin	MANY	7	m ʊ l t ʊ s	1
+201	Latin	SOME	8	a l i kʷ ɔ t	1
+201	Latin	SOME	8	a l i kʷ ɔ t	2
+202	Latin	EAR	9	a ʊ r ı s	0
+203	Latin	EYE	10	ɔ k ʊ l ʊ s	0
+204	Latin	NOSE	11	n a s ʊ s	0
+205	Latin	BEAUTIFUL	12	p ʊ l k ɛ r	4
+206	Latin	BEAUTIFUL	12	f o r m o s ʊ s	3
+207	Latin	SMELL	13	s ɛ n t i r ɛ	0
+208	Latin	FEAR	14	t ı m e r ɛ	0
+209	Latin	SLEEP	15	d ɔ r m i r ɛ	0
+210	Latin	RIVER	16	f l u m ɛ n	0
+211	Latin	RIVER	16	f l u w  i ʊ s	2
+212	Latin	CLOUD	17	n u b e s	0
+213	Latin	ICE	18	g l a k j e s	0
+214	Latin	COLD	19	f r i g ı d ʊ s	0
+215	Latin	GOOD	20	b ɔ n ʊ s	0
+216	Latin	BAD	21	m a l ɛ	0
+217	Latin	BAD	21	m a l ʊ s	1
+218	Latin	BECAUSE	22	kʷ ɔ d	0
+219	Latin	SAY	23	d i k ɛ r ɛ	0
+220	Latin	SAY	23	n a r r a r ɛ	2
+221	Latin	LIVE	24	w i w ɛ r ɛ	0
+222	Latin	FISH	25	p ı s k ı s	0
+223	Latin	FISH	25	p ı s k a r ı ʊ s	1
+224	Latin	MOTHER	26	m ã m a	0
+225	Catalan	I	1	ʒ ɔ	1
+226	Catalan	YOU_S	2	t u	0
+227	Catalan	HE	3	e ʎ	0
+228	Catalan	WE	4	n u z a l t ɾ ə s	1
+229	Catalan	YOU_P	5	b u z a l t ɾ ə s	1
+230	Catalan	ALL	6	t o t	0
+231	Catalan	MANY	7	m o l	1
+232	Catalan	SOME	8	ə l ɣ u n	2
+233	Catalan	EAR	9	u ɾ ɛ ʎ ə	0
+234	Catalan	EYE	10	u ʎ	0
+235	Catalan	NOSE	11	n a s	0
+236	Catalan	BEAUTIFUL	12	b u n i k	0
+237	Catalan	SMELL	13	s ə n t i	0
+238	Catalan	FEAR	14	t e m ə	0
+239	Catalan	SLEEP	15	d u r m i	0
+240	Catalan	RIVER	16	r i w	1
+241	Catalan	CLOUD	17	n u β u l	0
+242	Catalan	ICE	18	ʒ ɛ l	0
+243	Catalan	COLD	19	f ɾ ɛ t	0
+244	Catalan	GOOD	20	b ɔ	0
+245	Catalan	BAD	21	m a l ə	0
+246	Catalan	BECAUSE	22	p ə r k ɛ	0
+247	Catalan	SAY	23	d i	0
+248	Catalan	LIVE	24	b i w ɾ ə	0
+249	Catalan	FISH	25	p e ʃ	0
+250	Catalan	MOTHER	26	m ə m a	0
+251	Corsican	I	1	e j u	0
+252	Corsican	YOU_S	2	t u	0
+253	Corsican	HE	3	e l l u	0
+254	Corsican	WE	4	n o i	0
+255	Corsican	YOU_P	5	b o i	0
+256	Corsican	ALL	6	t u t t u	0
+257	Corsican	MANY	7	a s s a i	3
+258	Corsican	SOME	8	k w a l k i	1
+259	Corsican	EAR	9	a r ɛ k j a	0
+260	Corsican	EYE	10	ɔ t j u	0
+261	Corsican	NOSE	11	n a s u	0
+262	Corsican	BEAUTIFUL	12	b ɛ l l u	0
+263	Corsican	SMELL	13	s ɛ̃ n t ɛ	0
+264	Corsican	FEAR	14	t e m e	0
+265	Corsican	SLEEP	15	ð o r m ɛ	0
+266	Corsican	RIVER	16	f j u m ɛ	0
+267	Corsican	CLOUD	17	n i w u l u	0
+268	Corsican	ICE	18	j a ʤ u	0
+269	Corsican	COLD	19	f r e d u	0
+270	Corsican	GOOD	20	b o n u	0
+271	Corsican	BAD	21	m a l ɛ	0
+272	Corsican	BECAUSE	22	k i	0
+273	Corsican	SAY	23	ð i	0
+274	Corsican	LIVE	24	b i w ɛ	0
+275	Corsican	FISH	25	p ɛ ʃ u	0
+276	Corsican	MOTHER	26	m a m m a	0
